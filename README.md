@@ -16,7 +16,7 @@
 🌱 &nbsp;I'm currently honing my front-end skills to build beautiful and performant interfaces.\
 💬 &nbsp;Feel free to reach out for me for project ideas, volunteering or anything interesting.\
 ✉️ &nbsp;You can contact me at ignaciovela.dm@gmail.com \
-👨‍💻 &nbsp;Check my projects at https://github.com/ignaciovelaz.\
+👨‍💻 &nbsp;Check my projects at https://github.com/ignaciovelaz \
 🚀 &nbsp;Borrow any code you like and share any doubts or suggestions you have. 
 
 
